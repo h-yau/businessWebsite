@@ -1,2 +1,2 @@
 # businessWebsite
-(live demo)[https://nzxzn.github.io/businessWebsite/]
+[live demo](https://h-yau.github.io/businessWebsite/)
